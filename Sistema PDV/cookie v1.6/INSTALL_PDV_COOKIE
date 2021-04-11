@@ -1,0 +1,7 @@
+Este archivo debe estar presente durante la instalación
+
+Para reiniciar la instalación crear el archivo:
+
+"INSTALL_PDV_COOKIE" (sin extensión) en carpeta raíz e ingresar a:
+
+http://ejemplo.com/instalar
